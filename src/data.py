@@ -1,13 +1,6 @@
-### Visual Assignment 3
-## Cultural Data Science - Visual Analytics 
-# Author: Rikke Uldbæk (202007501)
-# Date: 14th of April 2023
-
 #--------------------------------------------------------#
 ################## DATA PREPROCESSING  ###################
 #--------------------------------------------------------#
-
-# (please note that some of this code has been adapted from class sessions)
 
 # Import packages
 # tf tools 
