@@ -1,13 +1,11 @@
 ### Visual Assignment 3
 ## Cultural Data Science - Visual Analytics 
-# Author: Rikke Uldbæk (202007501)
-# Date: 14th of April 2023
+# Author: Christian Norup Kolding (201805727)
+# Date: 30th of May 2023
 
 #--------------------------------------------------------#
 ################ INDO FASHION CLASSIFIER #################
 #--------------------------------------------------------#
-
-# (please note that some of this code has been adapted from class sessions)
 
 # Install packages 
 # data wrangeling/path tools/plotting tools 
