@@ -1,8 +1,3 @@
-### Visual Assignment 3
-## Cultural Data Science - Visual Analytics 
-# Author: Christian Norup Kolding (201805727)
-# Date: 30th of May 2023
-
 #--------------------------------------------------------#
 ################ INDO FASHION CLASSIFIER #################
 #--------------------------------------------------------#
